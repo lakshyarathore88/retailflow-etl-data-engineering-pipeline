@@ -1,0 +1,22 @@
+# Data files — never commit raw or processed data
+data/raw/
+data/staging/
+data/warehouse/
+data/quarantine/
+*.csv
+*.parquet
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
