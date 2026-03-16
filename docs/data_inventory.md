@@ -1,6 +1,6 @@
 Tables				                                Length	 Row    Encoding	BOM? 	Column	Notes
                     
-olist_customers_dataset.csv           				87158	 1001	ascii	    No	    5	
+olist_customers_dataset.csv           				87158	 1001	ascii	    No	    5	    
 olist_geolocation_dataset.csv         				115987	 2075	ascii	    No	    5	
 olist_orders_dataset.csv              				312474	 2075	ascii	    No	    8	
 olist_order_items_dataset.csv         				385819	 2918	ascii	    No	    7	
